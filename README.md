@@ -1,5 +1,7 @@
-# AB-Testing
+# Mobile Games A/B Testing with Cookie Cats
 
-- For this project, I worked to understand the results of an A/B test run by an e-commerce website. 
-- The company has developed a new web page in order to try and increase the number of users.
-- My goal was to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+Project description
+
+- The focus of this analysis will be on how the gate placement affects player retention.
+
+- My goal was to help the company understand if they should implement this gate 30, keep the old gate 40.
